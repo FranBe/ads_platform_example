@@ -1,8 +1,10 @@
 # Folders
 __pycache__/
 .venv/
+data/postgres/
 
 # Files
 *.pyc
 *.db
 .env
+notas.md
