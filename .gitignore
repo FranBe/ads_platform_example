@@ -18,3 +18,4 @@ notas.md
 *.tfstate
 *.tfstate.backup
 /aws/
+terraform.tfvars
